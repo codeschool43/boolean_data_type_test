@@ -1,1 +1,1 @@
-# Boolean data tpye Test
+# Boolean data type Test
